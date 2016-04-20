@@ -1,0 +1,43 @@
+### Swift dependencies file v0 ###
+provides:
+- "AppDelegate"
+nominals:
+- "C4OCR311AppDelegate"
+class-members:
+- "applicationWillTerminate"
+- "applicationWillResignActive"
+- "application"
+- "applicationDidEnterBackground"
+- "window"
+- "applicationWillEnterForeground"
+- "applicationDidBecomeActive"
+top-level:
+- "UIApplication"
+- "UIWindow"
+- !private "BooleanLiteralType"
+- "UIResponder"
+- "Bool"
+- "NSObject"
+- "AnyObject"
+- "UIApplicationDelegate"
+member-access:
+- "C4OCR311AppDelegate"
+- "PSs9AnyObject"
+- "CSo8NSObject"
+- "PSo21UIApplicationDelegate"
+- "CSo11UIResponder"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Swift.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/OCR3-Bridging-Header.h"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphonesimulator/G8Tesseract.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Security.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/CoreImage.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphonesimulator/G8Constants.h"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphonesimulator/G8TesseractDelegate.h"

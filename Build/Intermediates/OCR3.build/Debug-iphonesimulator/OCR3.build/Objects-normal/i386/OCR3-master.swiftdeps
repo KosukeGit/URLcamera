@@ -1,0 +1,9 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "c5d36008bcb86af4ca46999ee8b97ede"
+inputs: 
+- "/Users/k13052kk/Desktop/OCR3/OCR3/ViewController.swift"
+- "/Users/k13052kk/Desktop/OCR3/OCR3/Tesseract.swift"
+- "/Users/k13052kk/Desktop/OCR3/OCR3/AppDelegate.swift"
+- "/Users/k13052kk/Desktop/OCR3/OCR3/Synthesis.swift"
+- "/Users/k13052kk/Desktop/OCR3/OCR3/CameraViewController.swift"
+- "/Users/k13052kk/Desktop/OCR3/OCR3/CropViewController.swift"

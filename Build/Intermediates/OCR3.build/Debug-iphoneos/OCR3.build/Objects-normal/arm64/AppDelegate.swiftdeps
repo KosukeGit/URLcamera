@@ -1,0 +1,44 @@
+### Swift dependencies file v0 ###
+provides:
+- "AppDelegate"
+nominals:
+- "C4OCR311AppDelegate"
+class-members:
+- "application"
+- "applicationDidEnterBackground"
+- "applicationWillTerminate"
+- "window"
+- "applicationDidBecomeActive"
+- "applicationWillEnterForeground"
+- "applicationWillResignActive"
+top-level:
+- "UIWindow"
+- "Bool"
+- "NSObject"
+- "UIApplicationDelegate"
+- "UIApplication"
+- !private "BooleanLiteralType"
+- "AnyObject"
+- "UIResponder"
+member-access:
+- "PSs9AnyObject"
+- "CSo11UIResponder"
+- "PSo21UIApplicationDelegate"
+- "C4OCR311AppDelegate"
+- "CSo8NSObject"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Swift.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/OCR3-Bridging-Header.h"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphoneos/G8Tesseract.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Security.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreImage.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphoneos/G8Constants.h"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphoneos/G8TesseractDelegate.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreAudio.swiftmodule"

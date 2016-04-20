@@ -1,0 +1,40 @@
+### Swift dependencies file v0 ###
+provides:
+- "Tesseract"
+nominals:
+- "C4OCR39Tesseract"
+class-members:
+- "shouldCancelImageRecognitionForTesseract"
+- "analyze"
+top-level:
+- "G8Tesseract"
+- "Bool"
+- "String"
+- !private "BooleanLiteralType"
+- "UIImage"
+- "NSObject"
+- "G8TesseractDelegate"
+- !private "StringLiteralType"
+member-access:
+- !private "SQ"
+- "CSo8NSObject"
+- "PSo19G8TesseractDelegate"
+- "PSs9AnyObject"
+- !private "CSo11G8Tesseract"
+- "C4OCR39Tesseract"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Swift.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3/OCR3-Bridging-Header.h"
+- "/Users/k13052kk/Desktop/OCR3/Build/Products/Debug-iphonesimulator/G8Tesseract.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Security.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreImage.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3/Build/Products/Debug-iphonesimulator/G8Constants.h"
+- "/Users/k13052kk/Desktop/OCR3/Build/Products/Debug-iphonesimulator/G8TesseractDelegate.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreAudio.swiftmodule"

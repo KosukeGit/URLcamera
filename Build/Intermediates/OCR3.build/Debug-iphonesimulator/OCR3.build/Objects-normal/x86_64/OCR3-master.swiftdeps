@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "ae34303f673d704987622edde0781111"
+inputs: 
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/OCR3/ViewController.swift"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/OCR3/AppDelegate.swift"

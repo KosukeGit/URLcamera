@@ -1,0 +1,40 @@
+### Swift dependencies file v0 ###
+provides:
+- "Tesseract"
+nominals:
+- "C4OCR39Tesseract"
+class-members:
+- "shouldCancelImageRecognitionForTesseract"
+- "analyze"
+top-level:
+- "UIImage"
+- !private "BooleanLiteralType"
+- "G8TesseractDelegate"
+- "Bool"
+- "NSObject"
+- "String"
+- !private "StringLiteralType"
+- "G8Tesseract"
+member-access:
+- !private "CSo11G8Tesseract"
+- !private "SQ"
+- "C4OCR39Tesseract"
+- "CSo8NSObject"
+- "PSo19G8TesseractDelegate"
+- "PSs9AnyObject"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Swift.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/OCR3-Bridging-Header.h"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphoneos/G8Tesseract.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/UIKit.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Foundation.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Darwin.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Dispatch.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/ObjectiveC.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreGraphics.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/Security.swiftmodule"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreImage.swiftmodule"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphoneos/G8Constants.h"
+- "/Users/k13052kk/Desktop/OCR3 \u306E\u30B3\u30D2\u309A\u30FC/Build/Products/Debug-iphoneos/G8TesseractDelegate.h"
+- "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/CoreAudio.swiftmodule"
